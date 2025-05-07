@@ -49,7 +49,7 @@ header span {
 }
 
 .text-wrapper {
-    max-width: 600px;
+    max-width: 425px;
 }
 
 .main-title {
@@ -76,7 +76,7 @@ header span {
 .about-section .wrapper {
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 60px;
 }
 
 select {
@@ -118,7 +118,7 @@ select:hover,
 .books-list {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 16px;
 }
 
 .frameworks-list {
@@ -136,14 +136,14 @@ select:hover,
 
 .skills-block {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 30px;
 }
 
 .skills {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
 }
 
 .label {
